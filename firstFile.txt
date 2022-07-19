@@ -3,3 +3,4 @@ line 2
 line 3
 line 4
 Something to put in master
+This line is from branch2
