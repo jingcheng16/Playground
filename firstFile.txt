@@ -5,3 +5,4 @@ line 4
 Something to put in master
 This line is from branch2
 This line is from main
+A new line, latest commit from branch2
