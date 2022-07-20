@@ -5,3 +5,5 @@ line 4
 Something to put in master
 This line is from branch2
 This line is from main
+This line is from main
+Add new line so I can do a merge in branch2
